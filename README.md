@@ -1,4 +1,5 @@
 # cs5228-project-team-not-found
+github: https://github.com/luoxiangyi222/cs5228-project-team-not-found
 
 - cs5228_data_clean: check data quality, fill missing value, remove outlier
 - cs5228_data_pre: data transformation, categorical data encoding, normalization & standardization
